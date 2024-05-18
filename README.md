@@ -1,6 +1,6 @@
 # Supermarket Sales Analysis using Python
 
-Welcome to my blog where we explore the captivating world of retail data analysis! In this series, we dive into Supermarket Sales Analysis using Python to uncover fascinating insights and trends hidden within the data.
+Explore the captivating world of retail data analysis! In this series, we dive into Supermarket Sales Analysis using Python to uncover fascinating insights and trends hidden within the data.
 
 ## Objectives
 1. Identify the branch with the highest sales.
